@@ -24,4 +24,17 @@ The following repository contains full, open-source 3D CAD files (`.STEP`, `.STL
   * `.PDF` — High-resolution technical engineering drawings.
 * **Project Scope:** ~20 session hours over the span of 2 days. Fully modeled, assembled, and constrained by Ark Patel.
 
+# Interactive 3D Model & File Downloads
+
+You can interact with the full 3D assembly directly in your browser:
+
+**[View Interactive OnShape Model](https://cad.onshape.com/documents/cda00721462a87bd848d7c4c/w/2d7d3d2bc6ce42780dfa5b8d/e/b7c1ff30dcd9e67f688fc97c)**
+
+* **STEP File:** [Download JWST Assembly (.STEP)](https://github.com/ArkPatel0816/jwst-ariane5-sophomore-recreation/blob/main/James%20Web%20Telescope%20Recreation.step)
+* **STEP File:** [Download Ariane 5 Assembly (.STEP)](https://github.com/ArkPatel0816/jwst-ariane5-sophomore-recreation/blob/main/Ariane%205%20Recreation.step)
+* **STL Files:** [Download 3D Printable JWST Model (.STL)](https://github.com/ArkPatel0816/jwst-ariane5-sophomore-recreation/blob/main/James%20Web%20Telescope%20Recreation.stl)
+* **STL Files:** [Download 3D Printable Ariane 5 Model (.STL)](https://github.com/ArkPatel0816/jwst-ariane5-sophomore-recreation/blob/main/Ariane%205%20Recreation.stl)
+* **Technical Drawings:** [View Orthographic PDF Drawings]([./Drawings/jwst-ariane5-drafting.pdf](https://github.com/ArkPatel0816/jwst-ariane5-sophomore-recreation/blob/main/JWST%20Drawings.pdf))
+
 > ***Note: Components listed are subject to, but not limited to, the details provided above.***
+

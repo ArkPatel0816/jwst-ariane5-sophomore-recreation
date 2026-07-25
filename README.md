@@ -34,7 +34,7 @@ You can interact with the full 3D assembly directly in your browser:
 * **STEP File:** [Download Ariane 5 Assembly (.STEP)](https://github.com/ArkPatel0816/jwst-ariane5-sophomore-recreation/blob/main/Ariane%205%20Recreation.step)
 * **STL Files:** [Download 3D Printable JWST Model (.STL)](https://github.com/ArkPatel0816/jwst-ariane5-sophomore-recreation/blob/main/James%20Web%20Telescope%20Recreation.stl)
 * **STL Files:** [Download 3D Printable Ariane 5 Model (.STL)](https://github.com/ArkPatel0816/jwst-ariane5-sophomore-recreation/blob/main/Ariane%205%20Recreation.stl)
-* **Technical Drawings:** [View Orthographic PDF Drawings]([./Drawings/jwst-ariane5-drafting.pdf](https://github.com/ArkPatel0816/jwst-ariane5-sophomore-recreation/blob/main/JWST%20Drawings.pdf))
+* **Technical Drawings:** [View Orthographic PDF Drawings]((https://github.com/ArkPatel0816/jwst-ariane5-sophomore-recreation/blob/main/JWST%20Drawings.pdf))
 
 > ***Note: Components listed are subject to, but not limited to, the details provided above.***
 

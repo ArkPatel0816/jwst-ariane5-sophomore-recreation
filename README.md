@@ -2,7 +2,7 @@
 An assembled 3D CAD recreation and technical drafting package of the **James Webb Space Telescope (JWST)** and the **Ariane 5** launch vehicle. Designed and modeled using **OnShape** to analyze structural alignment and model basic mechanical systems.
 ---
 ## Project Overview
-The following repository contains full, open-source 3D CAD files (`.STEP`, `.STL`) and high-resolution 2D technical drawings (`.PDF`) for the JWST and Ariane 5 CAD models.
+The following repository contains full, open-source 3D CAD files (`.STEP`, `.STL`) and high-resolution 2D technical drawings (`.PDF`) for the JWST and Ariane 5 CAD models. More information is contained below.
 ---
 ### Key Features & Subsystems Modeled:
 #### JAMES WEBB SPACE TELESCOPE
@@ -10,6 +10,10 @@ The following repository contains full, open-source 3D CAD files (`.STEP`, `.STL
 * **5-Layer Sunshield & Spacecraft Bus:** Modeled using numerous constraints.
 * **Solar Array & Mirror Backplate:** Rough models of solar panels and supports.
 * **Technical Drafting Suite:** Multi-sheet JWST orthographic drawings with numerous section views. Comes with an included exploded view and Bill of Materials (BOM).
+* **THERMAL EXAM CONDUCTED ON SIMSCALE:***
+
+<img width="564" height="522" alt="Screenshot 2026-07-31 at 10 44 16 PM" src="https://github.com/user-attachments/assets/10d4733c-ec43-4e84-9617-d36efcbc9b65" />
+
 ---
 #### ARIANE 5
 * **Solid Rocket Booster:** Paired along with the Ariane 5 core stage.
@@ -23,6 +27,7 @@ The following repository contains full, open-source 3D CAD files (`.STEP`, `.STL
   * `.STL` — Optimized for 3D printing scale models.
   * `.PDF` — High-resolution technical engineering drawings.
 * **Project Scope:** ~20 session hours over the span of 2 days. Fully modeled, assembled, and constrained by Ark Patel.
+* **NOTE: Geometries and dimensions are reverse-engineered from official NASA/EVA photogrammetry. Discrepancies with the stated are acknowledged as data limitations at the time of creation. The stated is also applied regarding the accuracy of the thermal simulation.**
 
 # Interactive 3D Model & File Downloads
 

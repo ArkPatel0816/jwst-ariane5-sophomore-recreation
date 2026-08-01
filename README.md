@@ -23,6 +23,7 @@ The following repository contains full, open-source 3D CAD files (`.STEP`, `.STL
 * **Solid Rocket Booster:** Paired along with the Ariane 5 core stage.
 * **Core Stage:** Basic representation of where the JWST deploys in Ariane 5.
 <img width="323" height="642" alt="Screenshot 2026-07-31 at 10 56 05 PM" src="https://github.com/user-attachments/assets/c78b36a8-e8af-4fc3-941d-fbeb12031f6c" />
+
 * **Technical Drafting Suite:** Multi-sheet Ariane 5 orthographic drawings with numerous section views. Comes with an included exploded view and (BOM).
 <img width="897" height="692" alt="Screenshot 2026-07-31 at 10 56 18 PM" src="https://github.com/user-attachments/assets/3e868611-2582-4ccd-addf-af254c368edb" />
 ---
